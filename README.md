@@ -65,7 +65,7 @@ The ISP header can be used to program the FPGA SRAM as well as the MMOD flash me
 | 5 | CRESET |
 | 6 | CDONE |
 | 7 | GND |
-| 8 | PWR3V3 (out) |
+| 8 | PWR5V0 |
 
 ## License
 
