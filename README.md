@@ -50,10 +50,8 @@ sudo dfu-util -e -a 0
 The ISP header can be used to program the FPGA SRAM as well as the MMOD flash memory. 
 
 ```
-1 2
-3 4
-5 6
-7 8
+7 5 3 1
+8 6 4 2
 ```
 
 | Pin | Signal |
