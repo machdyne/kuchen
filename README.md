@@ -2,6 +2,8 @@
 
 Kuchen is an FPGA computer designed by Lone Dynamics Corporation.
 
+![Kuchen FPGA Computer](https://github.com/machdyne/kuchen/blob/b099f1ab29b17824f0c5727d06bcca6faf649b49/kuchen.png)
+
 This repo contains PCB layouts, schematics, pinouts, example gateware and documentation.
 
 Find more information on the [Kuchen product page](https://machdyne.com/product/kuchen-computer/).
