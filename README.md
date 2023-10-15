@@ -16,7 +16,7 @@ Assuming they are installed, you can simply type `make` to build the gateware, w
 
 ## Zucker
 
-[Zucker](https://github.com/machdyne/zucker) is a RISC-V SOC designed specifically for Kuchen hardware.
+[Zucker](https://github.com/machdyne/zucker) is a RISC-V SOC that supports Kuchen.
 
 ## USB Bootloader
 
