@@ -82,6 +82,21 @@ set_io DDMI_D1_P	T14
 set_io DDMI_D2_P	T16
 set_io DDMI_CK_P	T9
 
+# MicroSD
+set_io SD_SS	C5
+set_io SD_MISO	A2
+set_io SD_MOSI	C4
+set_io SD_SCK	A1
+
+# USB-C DEVICE
+set_io USB_DN		T1
+set_io USB_DP		T2
+set_io USB_DP_PU	T3
+
+# USB-A HOST
+set_io USBH_DN		H1
+set_io USBH_DP		J1
+
 # CONFIG SPI
 set_io SPI_SS		R12
 set_io SPI_SCK		R11
