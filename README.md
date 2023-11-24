@@ -75,6 +75,13 @@ The ISP header can be used to program the FPGA SRAM as well as the MMOD flash me
 | 7 | GND |
 | 8 | PWR5V0 |
 
+## Board Revisions
+
+| Revision | Notes |
+| -------- | ----- |
+| V0 | Initial production boards |
+| V1 | Move DQ7 from K14 to J14 |
+
 ## License
 
 The contents of this repo are released under the [Lone Dynamics Open License](LICENSE.md).
